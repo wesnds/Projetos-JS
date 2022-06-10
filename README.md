@@ -1,2 +1,2 @@
-# Exercícios BootCamp DIO TQI FullStack Developer
+# Exercícios JavaScript
 Repositório de exercícios realizados durante o BootCamp DIO TQI FullStack Developer DIO
